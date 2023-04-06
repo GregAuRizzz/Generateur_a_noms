@@ -1,4 +1,3 @@
-#Note : navigator.userAgent pour avoir le user agent quand tu as la flemme
 import requests
 import html_text
 from bs4 import BeautifulSoup
